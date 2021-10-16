@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Littlepriceonu
+## 👋 Hi, I'm Littlepriceonu (Or Just Little)
 
 ### 👀 I’m interested in RLua, Javascript, Java, Python and many other languages
 ### 🌱 I’m currently learning some cpp and typescript.
