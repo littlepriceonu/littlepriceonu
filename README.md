@@ -6,7 +6,7 @@
 
 I Enjoy messing around with Python, Java, Javascript, Typescript And Lua. Currently Having Fun Programming and Listening To Music
 
-## 📫 How to reach me: I don't really use EMail so best thing to reach me on is discord (***littlepriceonu#0001***)
+#### 📫 How to reach me: I don't really use EMail so best thing to reach me on is discord (***littlepriceonu#0001***)
 
 <!---
 littlepriceonu/littlepriceonu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
