@@ -2,7 +2,7 @@
 
 Finally working on stuff again 👍
 
-[My Site!](http://www.littlepriceonu.com/)
+[My Site!](http://littlepriceonu.com/)
 
 ### 👀 I’m interested in RLua, Javascript, Java, Python and many other languages
 ### 🌱 I’m currently learning some cpp and typescript.
