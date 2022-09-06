@@ -3,6 +3,7 @@
 #### How to reach me: I don't really use EMail Often so best thing to reach me on is discord (***littlepriceonu#0001***)
 
 I do alot of random stuff, Mostly Lua, JS/TS, and Java/C#
+
 Finally working on stuff again 👍
 
 [My Site!](http://littlepriceonu.com/)
