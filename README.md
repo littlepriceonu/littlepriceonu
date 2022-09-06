@@ -4,9 +4,11 @@ Finally working on stuff again 👍
 
 [My Site!](http://littlepriceonu.com/)
 
-### 👀 I’m interested in RLua, Javascript, Java, Python and many other languages
-### 🌱 I’m currently learning some cpp and typescript.
-### 💞️ I’m looking to collaborate on web projects and tons of other things
+![Littlepriceonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlepriceonu&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlepriceonu&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+I do alot of random stuff, Mostly lua, js, and Java/C#
 
 #### 📫 How to reach me: I don't really use EMail so best thing to reach me on is discord (***littlepriceonu#0001***)
 
