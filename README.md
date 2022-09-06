@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Littlepriceonu (Or Just Little)
 
-#### How to reach me: I don't really use EMail Often so best thing to reach me on is discord: littlepriceonu**#**0001
+#### How to reach me: I don't really use EMail Often so best thing to reach me on is discord: littlepriceonu(#)0001 (Remove the parentheses, I cant put it as is because of github formatting stuff 🤷)
 
 I do alot of random stuff, Mostly Lua, JS/TS, and Java/C#
 
