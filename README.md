@@ -1,4 +1,6 @@
-## 👋 Hi, I'm Littlepriceonu (Or Just Little)
+<h1 align="center"> 
+👋 Hi, I'm Littlepriceonu (Or Just Little)
+</h1>
 
 <details align="center" open>
     <summary><b>My Discord Profile</b></summary>
