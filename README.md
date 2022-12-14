@@ -10,20 +10,23 @@
 </a>
 </details>
 
-#### How to reach me: I don't really use EMail Often so best thing to reach me on is discord: littlepriceonu(#)0001
-(Remove the parentheses, I cant put it as is because of github formatting stuff 🤷)
+<h2 align="center"> <a href="https://littlepriceonu.com/"> My Site! </a> </h2>
 
-I do alot of random stuff, Mostly Lua, JS/TS, and Java/C#
+<hr/>
 
-Finally working on stuff again 👍
+<h3 align="center"> if you wanna reach me, add me on discord! </h3>
+<h3 align="center"> <strong> littlepriceonu#0001 </strong> </h3>
 
-[My Site!](http://littlepriceonu.com/)
+<p>I usually do stuff in Mostly Lua, JS/TS, and Java/C#, I really like javascript and lua the most but C# is still a language I love, I really just do a varity of stuff depending on how I feel but I make roblox scripts, sites, and tampermonkey scripts the most.</p>
 
-![Littlepriceonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=littlepriceonu&show_icons=true&theme=tokyonight)
+<p> <strong>TLDR;</strong> I program and stuff, y'know? </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=littlepriceonu&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<hr/>
 
-<!---
-littlepriceonu/littlepriceonu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details align="center" open>
+    <summary><b>My Github Stats</b></summary>
+    <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=littlepriceonu&show_icons=true&theme=tokyonight"/>
+     <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlepriceonu&langs_count=6&theme=tokyonight"/>
+</details>
