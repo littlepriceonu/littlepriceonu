@@ -14,8 +14,8 @@
 
 <hr/>
 
-<h3 align="center"> if you wanna reach me, [add me](https://discord.com/users/526120594929090561) on discord! </h3>
-<p align="center"> or you can [email me](mailto:me@littlepriceonu.com), but I probably won't respond as fast </p>
+<h3 align="center"> if you wanna reach me, <a href="https://discord.com/users/526120594929090561">add me</a> on discord! </h3>
+<p align="center"> or you can <a href="mailto:me@littlepriceonu.com">email me</a>, but I probably won't respond as fast </p>
 
 <p align="center">I usually do stuff in Mostly Lua, JS/TS, and Java/C#, I really like javascript and lua the most but C# is still a language I love, I really just do a varity of stuff depending on how I feel but I make roblox scripts, sites, and tampermonkey scripts the most.</p>
 
