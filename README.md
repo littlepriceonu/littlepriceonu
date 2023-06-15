@@ -12,8 +12,6 @@
 
 <h2 align="center"> <a href="https://littlepriceonu.com/"> My Site! </a> </h2>
 
-<hr/>
-
 <h3 align="center"> if you wanna reach me, <a href="https://discord.com/users/526120594929090561">add me</a> on discord! </h3>
 <p align="center"> or you can <a href="mailto:me@littlepriceonu.com">email me</a>, but I probably won't respond as fast </p>
 
@@ -23,7 +21,7 @@
 
 <hr/>
 
-<details align="center" open>
+<details align="center">
     <summary><b>My Github Stats</b></summary>
     <br>
       <img src="https://github-readme-stats.vercel.app/api?username=littlepriceonu&show_icons=true&theme=tokyonight"/>
