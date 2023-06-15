@@ -12,6 +12,8 @@
 
 <h3 align="center"> <a href="https://littlepriceonu.com/"> My Site! </a> </h3>
 
+<hr/>
+
 <h3 align="center"> if you wanna reach me, <a href="https://discord.com/users/526120594929090561">add me</a> on discord! </h3>
 <p align="center"> or you can <a href="mailto:me@littlepriceonu.com">email me</a>, but I probably won't respond as fast </p>
 
