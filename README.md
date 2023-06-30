@@ -2,14 +2,6 @@
 Hey, I'm <a href="https://littlepriceonu.com/">Little</a>
 </h1>
 
-<details align="center" open>
-    <summary><b>My Discord Profile</b></summary>
-    <br>
-<a href="https://discord.com/users/526120594929090561">
-      <img src="https://lanyard.cnrad.dev/api/526120594929090561"/>
-</a>
-</details>
-
 <h3 align="center"> if you wanna reach me, <a href="https://discord.com/users/526120594929090561">add me</a> on discord </h3>
 <p align="center"> or you can <a href="mailto:me@littlepriceonu.com">email me</a>, but I probably won't respond as fast </p>
 
@@ -18,6 +10,14 @@ Hey, I'm <a href="https://littlepriceonu.com/">Little</a>
 <p align="center"> <strong>TLDR;</strong> I program and stuff, y'know? </p>
 
 <hr/>
+
+<details align="center" open>
+    <summary><b>My Discord Profile</b></summary>
+    <br>
+<a href="https://discord.com/users/526120594929090561">
+      <img src="https://lanyard.cnrad.dev/api/526120594929090561"/>
+</a>
+</details>
 
 <details align="center">
     <summary><b>My Github Stats</b></summary>
