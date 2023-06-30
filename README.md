@@ -1,5 +1,5 @@
 <h1 align="center"> 
-Hey, I'm Little
+Hey, I'm <a href="https://littlepriceonu.com/">Little</a>
 </h1>
 
 <details align="center" open>
@@ -10,11 +10,7 @@ Hey, I'm Little
 </a>
 </details>
 
-<h3 align="center"> <a href="https://littlepriceonu.com/"> My Site! </a> </h3>
-
-<hr/>
-
-<h3 align="center"> if you wanna reach me, <a href="https://discord.com/users/526120594929090561">add me</a> on discord! </h3>
+<h3 align="center"> if you wanna reach me, <a href="https://discord.com/users/526120594929090561">add me</a> on discord </h3>
 <p align="center"> or you can <a href="mailto:me@littlepriceonu.com">email me</a>, but I probably won't respond as fast </p>
 
 <p align="center">I usually do stuff in Mostly JS/TS, Luau, and Java/C#. I really like Typescript and Luau the most. I also like doing web stuff</p>
