@@ -7,7 +7,9 @@ Hey, I'm <a href="https://littlepriceonu.com/">Little</a>
 
 <p align="center">I usually do stuff in Mostly JS/TS, Luau, and Java/C#. I really like Typescript and Luau the most. I also like doing web stuff</p>
 
-<p align="center"> <strong>TLDR;</strong> I program and stuff, y'know? </p>
+<p align="center">Donate to me <a href="https://www.buymeacoffee.com/littlepriceonu">here</a></p>
+
+<p style="font-weight:800;" align="center"> <strong>TLDR;</strong> I program and stuff, y'know? </p>
 
 <hr/>
 
