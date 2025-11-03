@@ -1,15 +1,13 @@
 <h1 align="center"> 
-Hey, I'm <a href="https://littlepriceonu.com/">Little</a>
+hey, i'm <a href="https://littlepriceonu.com/">little</a>
 </h1>
 
 <h3 align="center"> if you wanna reach me, <a href="https://discord.com/users/526120594929090561">add me</a> on discord </h3>
 <p align="center"> or you can <a href="mailto:me@littlepriceonu.com">email me</a>, but I probably won't respond as fast </p>
 
-<p align="center">I usually do stuff in Mostly JS/TS, Luau, and Java/C#. I really like Typescript and Luau the most. I also like doing web stuff</p>
+<p align="center">i've used lots of languages, like JS/TS, Luau, Java/C#, Rust, Python and more. I usually like doing web stuff</p>
 
-<p align="center">Donate to me <a href="https://www.buymeacoffee.com/littlepriceonu">here</a></p>
-
-<p style="font-weight:800;" align="center"> <strong>TLDR;</strong> I program and stuff, y'know? </p>
+<p style="font-weight:800;" align="center"> <strong>TLDR;</strong> i make cool stuff </p>
 
 <hr/>
 
